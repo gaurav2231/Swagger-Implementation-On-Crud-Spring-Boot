@@ -10,9 +10,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * Created by Kavinda on 9/13/2017.
- */
 @RestController
 @RequestMapping( "/publisher" )
 public class PublisherController {

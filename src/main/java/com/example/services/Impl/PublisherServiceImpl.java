@@ -9,9 +9,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * Created by Kavinda on 9/13/2017.
- */
 @Service("publisherService")
 @Transactional
 public class PublisherServiceImpl implements PublisherService {
